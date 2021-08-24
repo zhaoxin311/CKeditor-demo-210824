@@ -1,3 +1,6 @@
 <template>
-  <div>fff</div>
+  <div>
+    fff
+    <div>ssss</div>
+  </div>
 </template>
