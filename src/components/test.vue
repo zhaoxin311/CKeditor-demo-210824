@@ -1,5 +1,3 @@
 <template>
-  <div>ddddddd</div>
+  <div>fff</div>
 </template>
-
-<script></script>
